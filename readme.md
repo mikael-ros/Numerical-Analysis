@@ -1,7 +1,9 @@
-# Exercise solutions for Numerical Analysis
+# Notes, anki cards, and exercise solutions for Numerical Analysis
 > second edition, Timothy Sauer
 
 This repository contains my attempts to solve the exercises given in the aforementioned book, during my enrolment in the Numerical Analysis course (FMNF05) at Lunds Tekniska Högskola (LTH) @ Lund University : Lund, Sweden - as part of my computer science program.
+
+It also includes my notes, and you can find my [anki cards here](https://www.github.com/mikael-ros/LTH-anki/Y3/P3/FMNF05/Book).
 
 Feel free to submit an issue, or contact me, if you discover any errors or have intellectual property rights concerns. 
 
