@@ -1,9 +1,9 @@
 # Chapter 0: Fundamentals
 ## 0.1 Evaluating polynomials
 ### Exercises
-See bottom of [chapter-0.pdf].
+See bottom of [chapter-0.pdf](chapter-0.pdf).
 ### Computer problems
-See bottom of [chapter-0.pdf] for notes. Command snippets follow below, for use in MatLAB. 
+See bottom of [chapter-0.pdf](chapter-0.pdf) for notes. Command snippets follow below, for use in MatLAB. 
 
 See files in this directory for the various functions necessary for the snippets below.
 
