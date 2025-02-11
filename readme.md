@@ -43,8 +43,8 @@ To run any function, start your MATLAB terminal, then ``cd`` into the directory 
 - [ ] Chapter 1: Solving equations
   - [x] 1.1 The bisection method
     - [x] Notes & anki cards
-    - [ ] Exercises 
-    - [ ] Computer problems
+    - [x] Exercises 
+    - [x] Computer problems
   - [x] 1.2 Fixed-point iteration
     - [x] Notes & anki cards
     - [ ] Exercises 
