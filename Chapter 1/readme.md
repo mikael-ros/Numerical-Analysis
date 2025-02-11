@@ -62,6 +62,7 @@ xline(0) % Add line going through origin (vertical)
 yline(0) % Add line going through origin (horizontal)
 ```
 Using this, we get the following plot:
+
 ![Plot of f(x)](1-1-comp-3-a.png)
 
 In which, it is clear that the following intervals should work well:
@@ -93,6 +94,7 @@ xline(0) % Add line going through origin (vertical)
 yline(0) % Add line going through origin (horizontal)
 ```
 Using this, we get the following plot:
+
 ![Plot of f(x)](1-1-comp-3-b.png)
 
 In which, we can see that the following intervals should work well:
@@ -124,6 +126,7 @@ xline(0) % Add line going through origin (vertical)
 yline(0) % Add line going through origin (horizontal)
 ```
 Using this, we get the following plot:
+
 ![Plot of f(x)](1-1-comp-3-c.png)
 
 In which, we can't really see much...
