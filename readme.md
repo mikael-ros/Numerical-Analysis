@@ -9,6 +9,19 @@ Feel free to submit an issue, or contact me, if you discover any errors or have 
 
 This repository is part of a wider project of mine, to document my notes and exercises throughout my university degree. You can find more [here](https://mikaelrr.notion.site/Delade-anteckningar-Hub-LTH-D-C-f2a47297b9b146dba372e02c4f789d55?pvs=4) :)
 
+## Running locally
+If using this repository I strongly recommend installing MATLAB locally, and opening the repository in Visual Studio Code. Using the following command, after opening a terminal in Visual Studio Code, you can run MATLAB inside of Visual Studio Code:
+```sh
+matlab -nodesktop -nojvm -nosplash
+```
+> [!TIP]
+> Add the above command as some alias in Linux, by adding ``alias matlab-console = "matlab -nodesktop -nojvm -nosplash"`` to your ``~/.bashrc`` (or applicable for your shell) and then running ``source ~/.bashrc``.
+
+Additionally, using the recommended extensions, you can open relevant ``.pdf`` files and split your view for efficiency.
+
+To run any function, start your MATLAB terminal, then ``cd`` into the directory and simply write the name of the file without the ``.m`` extension.
+
+
 ## Chapters completed
 - [x] Chapter 0: Fundamentals (partially)
   - [x] 0.1 Evaluating polynomials

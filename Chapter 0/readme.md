@@ -12,7 +12,7 @@ See files in this directory for the various functions necessary for the snippets
 Calculate the polynomial:
 ```matlab
 format long g
-result = nest(50, ones(50), 1.00001)
+result = horners(50, ones(50), 1.00001)
 % Calculate error:
 result - (1.00001^51 - 1)/(1.00001 - 1)
 ```
@@ -25,7 +25,7 @@ result - (1.00001^51 - 1)/(1.00001 - 1)
 Calculate polynomial:
 ```matlab
 format long g
-result = nest(99, (-1).^(0:99), 1.00001)
+result = horners(99, (-1).^(0:99), 1.00001)
 % Calculate error:
 (1-1.00001^100)/(1+1.00001) - result
 ```
