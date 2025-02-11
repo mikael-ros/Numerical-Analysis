@@ -15,12 +15,11 @@ If using this repository I strongly recommend installing MATLAB locally, and ope
 matlab -nodesktop -nojvm -nosplash
 ```
 > [!TIP]
-> Add the above command as some alias in Linux, by adding ``alias matlab-console = "matlab -nodesktop -nojvm -nosplash"`` to your ``~/.bashrc`` (or applicable for your shell) and then running ``source ~/.bashrc``.
+> Add the above command as some alias in Linux, by adding ``alias matlab-console = "matlab -nodesktop -nosplash"`` to your ``~/.bashrc`` (or applicable for your shell) and then running ``source ~/.bashrc``.
 
 Additionally, using the recommended extensions, you can open relevant ``.pdf`` files and split your view for efficiency.
 
 To run any function, start your MATLAB terminal, then ``cd`` into the directory and simply write the name of the file without the ``.m`` extension.
-
 
 ## Chapters completed
 - [x] Chapter 0: Fundamentals (partially)

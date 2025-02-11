@@ -3,7 +3,7 @@
 % ---
 % Bisection Method
 % Approximates solution of f(x)=0
-% Input: function f, two parameters a,b such that f(a)*f(b)<0, and tolerance
+% Input: function handle f, two parameters a,b such that f(a)*f(b)<0, and tolerance
 % Output: Approximate solution xc
 function xc=bisection(f,a,b,tolerance)
     if sign(f(a))*sign(f(b)) >= 0           % If signs are same
