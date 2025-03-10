@@ -40,25 +40,25 @@ To run any function, start your MATLAB terminal, then ``cd`` into the directory 
   - [x] 0.5 Review of calculus
     - [x] Notes & anki cards
     - [x] ~~Exercises~~ (skipped)
-- [ ] Chapter 1: Solving equations
+- [x] Chapter 1: Solving equations
   - [x] 1.1 The bisection method
     - [x] Notes & anki cards
     - [x] Exercises 
     - [x] Computer problems
   - [x] 1.2 Fixed-point iteration
     - [x] Notes & anki cards
-    - [ ] Exercises 
-    - [ ] Computer problems
+    - [x] Exercises 
+    - [x] ~~Computer problems~~ (skipped)
   - [x] 1.3 Limits of accuracy
     - [x] Notes & anki cards
-    - [ ] Exercises 
-    - [ ] Computer problems 
+    - [x] Exercises 
+    - [x] ~~Computer problems~~ (skipped) 
   - [x] 1.4 Newton's method
     - [x] Notes & anki cards
-    - [ ] Exercises 
-    - [ ] Computer problems 
+    - [x] Exercises 
+    - [x] ~~Computer problems~~ (skipped) 
   - [x] 1.5 Root-finding without derivatives
     - [x] Notes & anki cards
-    - [ ] Exercises 
-    - [ ] Computer problems 
+    - [x] Exercises 
+    - [x] ~~Computer problems~~ (skipped) 
 
