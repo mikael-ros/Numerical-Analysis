@@ -24,41 +24,75 @@ To run any function, start your MATLAB terminal, then ``cd`` into the directory 
 ## Chapters completed
 - [x] Chapter 0: Fundamentals (partially)
   - [x] 0.1 Evaluating polynomials
-    - [x] Notes & anki cards
+    - [x] Notes
+    - [x] Anki cards
     - [x] Exercises 
     - [x] Computer problems
   - [x] 0.2 Binary numbers
-    - [x] Notes & anki cards
+    - [x] Notes
+    - [x] Anki cards
     - [x] Exercises
   - [x] 0.3 Floating Point Representation of Real Numbers
-    - [x] Notes & anki cards
+    - [x] Notes
+    - [x] Anki cards
     - [x] Exercises  
   - [x] 0.4 Loss of significance
-    - [x] Notes & anki cards
+    - [x] Notes
+    - [x] Anki cards
     - [x] ~~Exercises~~ (skipped)
     - [x] ~~Computer problems~~ (skipped)
   - [x] 0.5 Review of calculus
-    - [x] Notes & anki cards
+    - [x] Notes
+    - [x] Anki cards
     - [x] ~~Exercises~~ (skipped)
+
+From this point on, I stopped doing the computer problems.
+
 - [x] Chapter 1: Solving equations
   - [x] 1.1 The bisection method
-    - [x] Notes & anki cards
+    - [x] Notes
+    - [x] Anki cards
     - [x] Exercises 
     - [x] Computer problems
   - [x] 1.2 Fixed-point iteration
-    - [x] Notes & anki cards
+    - [x] Notes
+    - [x] Anki cards
     - [x] Exercises 
-    - [x] ~~Computer problems~~ (skipped)
   - [x] 1.3 Limits of accuracy
-    - [x] Notes & anki cards
+    - [x] Notes
+    - [x] Anki cards
     - [x] Exercises 
-    - [x] ~~Computer problems~~ (skipped) 
   - [x] 1.4 Newton's method
-    - [x] Notes & anki cards
+    - [x] Notes
+    - [x] Anki cards
     - [x] Exercises 
-    - [x] ~~Computer problems~~ (skipped) 
   - [x] 1.5 Root-finding without derivatives
-    - [x] Notes & anki cards
+    - [x] Notes
+    - [x] Anki cards
     - [x] Exercises 
-    - [x] ~~Computer problems~~ (skipped) 
 
+From this point on, I also stopped writing anki cards.
+
+- [x] Chapter 2. Systems of equations
+  - [x] 2.1
+    - [x] Notes
+    - [x] Exercises 
+  - [x] 2.2
+    - [x] Notes
+    - [x] Exercises 
+  - [x] 2.3 
+    - [x] Notes
+    - [x] Exercises 
+  - [x] 2.4
+    - [x] Notes
+    - [x] Exercises 
+  - [x] 2.5 
+    - [x] Notes
+    - [x] Exercises 
+  - [x] 2.6 
+    - [x] Notes
+    - [x] ~~Exercises~~ (just one) 
+  - [x] 2.7 
+    - [x] Notes (partial)
+    - [x] Anki cards
+    - [x] ~~Exercises~~ (just one)
