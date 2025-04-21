@@ -22,7 +22,7 @@ Additionally, using the recommended extensions, you can open relevant ``.pdf`` f
 To run any function, start your MATLAB terminal, then ``cd`` into the directory and simply write the name of the file without the ``.m`` extension.
 
 ## Chapters completed
-- [x] Chapter 0: Fundamentals (partially)
+- [x] Chapter 0: Fundamentals (partial)
   - [x] 0.1 Evaluating polynomials
     - [x] Notes
     - [x] Anki cards
@@ -96,3 +96,20 @@ From this point on, I also stopped writing anki cards.
     - [x] Notes (partial)
     - [x] Anki cards
     - [x] ~~Exercises~~ (just one)
+
+- [x] Chapter 3. Interpolation (partial)
+  - [x] 3.1
+    - [x] Notes
+    - [x] Exercises (partial)
+  - [x] 3.2
+    - [x] Notes
+    - [x] Exercises (partial)
+  - [x] 3.3 
+    - [x] Notes
+    - [x] Exercises (partial)
+  - [x] 3.4
+    - [x] Notes
+    - [x] Exercises (partial)
+  - [x] ~~3.5~~ (skipped)
+    - [x] ~~Notes~~ (skipped)
+    - [x] ~~Exercises~~ (skipped)
