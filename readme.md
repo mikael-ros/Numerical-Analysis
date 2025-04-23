@@ -96,7 +96,6 @@ From this point on, I also stopped writing anki cards.
     - [x] Notes (partial)
     - [x] Anki cards
     - [x] ~~Exercises~~ (just one)
-
 - [x] Chapter 3. Interpolation (partial)
   - [x] 3.1
     - [x] Notes
@@ -111,5 +110,21 @@ From this point on, I also stopped writing anki cards.
     - [x] Notes
     - [x] Exercises (partial)
   - [x] ~~3.5~~ (skipped)
+    - [x] ~~Notes~~ (skipped)
+    - [x] ~~Exercises~~ (skipped)
+- [x] Chapter 4. Least squares (partial)
+  - [x] 4.1
+    - [x] Notes
+    - [x] Exercises (partial)
+  - [x] 4.2
+    - [x] Notes
+    - [x] Exercises (partial)
+  - [x] 4.3 
+    - [x] Notes
+    - [x] Exercises (partial)
+  - [x] ~~4.4~~ (skipped)
+    - [x] ~~Notes~~ (skipped)
+    - [x] ~~Exercises~~ (skipped)
+  - [x] ~~4.5~~ (skipped)
     - [x] ~~Notes~~ (skipped)
     - [x] ~~Exercises~~ (skipped)
