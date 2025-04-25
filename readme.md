@@ -128,3 +128,26 @@ From this point on, I also stopped writing anki cards.
   - [x] ~~4.5~~ (skipped)
     - [x] ~~Notes~~ (skipped)
     - [x] ~~Exercises~~ (skipped)
+  
+  Chapter 5 coming soon 
+
+  Chapters 6 through 9 are not part of my course 
+
+  Chapter 10 coming soon 
+
+  Chapter 11 is not part of my course 
+
+  - [x] Chapter 12. Eigenvalues and Singular Values (partial)
+  - [x] 12.1
+    - [x] Notes
+    - [x] Exercises (partial)
+  - [x] 12.2
+    - [x] Notes
+    - [x] Exercises (partial)
+  - [x] 12.3 
+    - [x] Notes
+    - [x] Exercises
+  - [x] 12.4
+    - [x] Notes
+
+  Chapter 13 is not part of my course
