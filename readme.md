@@ -144,11 +144,11 @@ From this point on, I also stopped writing anki cards.
     - [x] ~~Exercises~~ (skipped)
   5.4 and 5.5 are not part of my course
 
-  Chapters 6 through 9 are not part of my course 
+Chapters 6 through 9 are not part of my course 
 
-  ~~Chapter 10 coming soon~~ (decided to skip, as it wasn't common on the exam)
+~~Chapter 10 coming soon~~ (decided to skip, as it wasn't common on the exam)
 
-  Chapter 11 is not part of my course 
+Chapter 11 is not part of my course 
 
 - [x] Chapter 12. Eigenvalues and Singular Values (partial)
   - [x] 12.1
