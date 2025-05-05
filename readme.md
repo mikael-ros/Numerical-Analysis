@@ -1,3 +1,6 @@
+> [!NOTE]
+> I have now handed in my exam for this course, and unless I do not pass, this will be the final state of this repository without outside contributions.
+
 # Notes, anki cards, and exercise solutions for Numerical Analysis
 > second edition, Timothy Sauer
 
@@ -129,15 +132,25 @@ From this point on, I also stopped writing anki cards.
     - [x] ~~Notes~~ (skipped)
     - [x] ~~Exercises~~ (skipped)
   
-  Chapter 5 coming soon 
+- [x] Chapter 5. Numerical Differentiation and Integration (partial)
+  - [x] 5.1
+    - [x] Notes
+    - [x] Exercises (partial)
+  - [x] 5.2
+    - [x] Notes
+    - [x] Exercises (partial)
+  - [x] 5.3 
+    - [x] Notes (partial)
+    - [x] ~~Exercises~~ (skipped)
+  5.4 and 5.5 are not part of my course
 
   Chapters 6 through 9 are not part of my course 
 
-  Chapter 10 coming soon 
+  ~~Chapter 10 coming soon~~ (decided to skip, as it wasn't common on the exam)
 
   Chapter 11 is not part of my course 
 
-  - [x] Chapter 12. Eigenvalues and Singular Values (partial)
+- [x] Chapter 12. Eigenvalues and Singular Values (partial)
   - [x] 12.1
     - [x] Notes
     - [x] Exercises (partial)
