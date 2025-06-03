@@ -1,5 +1,5 @@
 > [!NOTE]
-> I have now handed in my exam for this course, and unless I do not pass, this will be the final state of this repository without outside contributions.
+> I have passed this course and will not keep updating this repository. Feel free to contribute missing solutions.
 
 # Notes, anki cards, and exercise solutions for Numerical Analysis
 > second edition, Timothy Sauer
